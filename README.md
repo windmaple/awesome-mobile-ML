@@ -3,6 +3,7 @@ Curating a list of mobile ML-related research, tools, projects and other resourc
 
 ## Research
 - [AI Benchmark: Running Deep Neural Networks on Android Smartphones](https://arxiv.org/abs/1810.01109) (Ignatov et al. 2018)
+- [CondenseNet: An Efficient DenseNet using Learned Group Convolutions](https://arxiv.org/abs/1711.09224) (Huang et al. 2017)
 - [MnasNet: Platform-Aware Neural Architecture Search for Mobile](https://arxiv.org/abs/1807.11626) (Tan et al. 2018)
 - [ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design](https://arxiv.org/abs/1807.11164) (Ma et al. 2018)
 - [ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices](https://arxiv.org/abs/1707.01083) (Zhang et al. 2017)
