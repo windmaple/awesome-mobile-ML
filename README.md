@@ -2,6 +2,7 @@
 Curating a list of mobile ML-related research, tools, projects and other resources
 
 ## Research
+- [AMC: AutoML for Model Compression and Acceleration on Mobile Devices](https://arxiv.org/abs/1802.03494) (He et al. 2018)
 - [AI Benchmark: Running Deep Neural Networks on Android Smartphones](https://arxiv.org/abs/1810.01109) (Ignatov et al. 2018)
 - [CondenseNet: An Efficient DenseNet using Learned Group Convolutions](https://arxiv.org/abs/1711.09224) (Huang et al. 2017)
 - [ProjectionNet: Learning Efficient On-Device Deep Networks Using Neural Projections](https://arxiv.org/abs/1708.00630) (Ravi 2017)
